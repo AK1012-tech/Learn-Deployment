@@ -1,0 +1,6 @@
+I am a Ambar with 1 year of experience in AI Engineering. 
+My expertise includes Machine Learning, NLP, LLMs, AI Engineering, Python, FastAPI, AI Agents.
+
+Currently, I'm focused on AI domain.
+
+My background includes a Bachelor's Degree in CS with specialization in AI and ML. Multiple projects in Machine Learning, NLP, LLMs, AI Engineering, Python, FastAPI, AI Agents.

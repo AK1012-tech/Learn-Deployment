@@ -1,0 +1,22 @@
+{
+  "full_name": "Ambar Kumar",
+  "name": "Avi",
+  "current_role": "AI Engineer",
+  "location": "Bengaluru, India",
+  "email": "ambarkumar1012@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/ambarkr1012/",
+  "specialties": [
+    "AI Engineering",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Data Science"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "VIT University",
+      "year": "2024"
+    }
+  ]
+}
