@@ -2,3 +2,5 @@
 .env
 node_modules
 memory
+lambda-deployment.zip
+lambda-package/
